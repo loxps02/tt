@@ -1,5 +1,5 @@
 <Response>
-<script/>
-<Say>Please leave a message after the beep.</Say>
-<Record transcribe="true" transcribeCallback="/voicemail?Email="/>
+    <script/>
+    <Say>Please leave a message after the beep.</Say>
+    <Record transcribe="true" transcribeCallback="/voicemail?Email=" />
 </Response>
